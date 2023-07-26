@@ -1,0 +1,264 @@
+[
+
+
+   {
+       "r" : "Sci-fi/Horror 1h 11m",
+       "data" : "1933",
+       "name" : "The Invisible Man",
+        "img"  : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTr_tetR6HUkeKvshIXjSOISxMOQxODyvYEj98ELAt_BJZ2qxKA",
+        "movieUrl" : "https://ia802301.us.archive.org/22/items/the.invisible.man.1933.720p.bluray.x264-hd4u/the.invisible.man.1933.720p.bluray.x264-hd4u.mp4"
+        
+        
+    },
+    {   "r" : "Comedy/Fantasy 1h 34m",
+        "data" : "1988",
+        "name" : "14 Going on 30",
+        "img" : "https://raw.githubusercontent.com/GGq1234Games/hd-----wallpaper-mk/main/Movies%20Wallpaper/14%20Going%20on%2030.png",
+        "movieUrl" : "https://ia801901.us.archive.org/9/items/video_archive_553-cd-207/14%20Going%20on%2030%20%281988%29%20VHSRip.mp4"
+        
+        
+    },
+    {   "r" : "R Horror/Comedy 1h 37m",
+        "data" : "1987",
+        "name" : "The Lost Boys",
+        "img" : "https://ia804601.us.archive.org/30/items/satans-cheerleaders-1977/The.Lost.Boys.1987.jpeg",
+        "movieUrl" : "https://archive.org/download/satans-cheerleaders-1977/The.Lost.Boys.1987.mp4"
+        
+        
+        
+    },
+    {   "r" : "Comedy/Fantasy 1h 44m",
+        "data" : "1988",
+        "name" : "BIG",
+        "img" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgDELbEifubGTbCnGDSwcNsNHkSTSAAgNynSPCJ3emNFVdufTw",
+        "movieUrl" : "https://ia803406.us.archive.org/17/items/american.-beauty.-1999/Big.1988.mp4"
+        
+        
+    },
+    {   "r" : "Drama 2h 53m",
+        "data" : "1996",
+        "name" : "Titanic",
+        "img" : "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/3178/31782207_so.jpg",
+        "movieUrl" : "https://ia801802.us.archive.org/35/items/titanic-1996-full-movie-1080p-6-ynd-9gu-9-zvk/Titanic%201996%20Full%20movie%201080p-6YNd9gu9ZVk.mp4"
+        
+        
+    },
+    {   "r" : "Thriller/Mystery 2h 1m",
+        "data" : "1976",
+        "name" : "Family Plot",
+        "img" : "https://www.jasonbovberg.com/wp-content/uploads/2013/08/FamilyPlot.jpg",
+        "movieUrl" : "https://ia802508.us.archive.org/30/items/6.-8-family-plot-1976-alfred-hitchcock/6.%208%20Family%20Plot%20%281976%29%20Alfred%20Hitchcock.mp4"
+        
+        
+        },
+    {   "r" : "1",
+        "data" : "1985",
+        "name" : "24 Hours to Midnight",
+        "img" : "https://m.media-amazon.com/images/M/MV5BOGMwM2U3MTktNzM2Mi00NGU1LTk2NTEtMDA5ODk0N2E4Y2Q3XkEyXkFqcGdeQXVyNzMzMjU5NDY@._V1_.jpg",
+        "movieUrl" : "https://archive.org/download/video_archive_553-cd-207/24%20Hours%20to%20Midnight%20%281985%29%20VHSRip.mp4"
+        
+        
+        
+            },
+    {   "r" : "",
+        "data" : "1981",
+        "name" : "A Day of Judgment",
+        "img" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRem6qTLcvpWCM5egpq8kQ9kK3-KX07sikf94tClZ_tQkDOdhhm",
+        "movieUrl" : "https://ia801901.us.archive.org/9/items/video_archive_553-cd-207/A%20Day%20of%20Judgment%20%281981%29%20VHSRip.mp4"
+        
+        
+        
+                },
+    {   "r" : "Thriller/Action 1h 30m",
+        "data" : "1984",
+        "name" : "A Man Called Rage",
+        "img" : "https://m.media-amazon.com/images/M/MV5BNTBhOGQ2MTgtZWU0MS00NGIyLWI2ZjgtMDc2MDA1YWIyOTMxXkEyXkFqcGdeQXVyMTQ2MjQyNDc@._V1_FMjpg_UX1000_.jpg",
+        "movieUrl" : "https://archive.org/download/video_archive_553-cd-207/A%20Man%20Called%20Rage%20%281984%29%20VHSRip.mp4"
+        
+        
+        
+        
+                },
+    {   "r" : "Comedy 1h 28m",
+        "data" : "1990",
+        "name" : "A Matter of Degrees",
+        "img" : "https://m.media-amazon.com/images/M/MV5BZTA5ZjY3MGUtNzUzMy00MWEzLWFhOGYtNjZiMTE0ZWFmMjE1XkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_FMjpg_UX1000_.jpg",
+        "movieUrl" : "https://archive.org/download/video_archive_553-cd-207/A%20Matter%20of%20Degrees%20%281990%29%20VHSRip.mp4"
+        
+        
+        
+                },
+    {   "r" : "",
+        "data" : "1989",
+        "name" : "A Nightmare on Drug Street",
+        "img" : "https://m.media-amazon.com/images/M/MV5BZWYwNGJkNDktMWIyZi00ZTI1LWFmNmMtYTc3YjJkYzJkNDQ0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjUzNTQ3NDA@._V1_FMjpg_UX1000_.jpg",
+        "movieUrl" : "https://archive.org/download/video_archive_553-cd-207/A%20Nightmare%20on%20Drug%20Street%20%281989%29%20VHSRip.mp4"
+        
+        
+        
+                },
+    {   "r" : "Thriller/Drama 1h 30m",
+        "data" : "1986",
+        "name" : "Abducted",
+        "img" : "https://images.static-bluray.com/products/20/54761_1_front.jpg",
+        "movieUrl" : "https://archive.org/download/video_archive_553-cd-207/Abducted%20%281986%29%20VHSRip.mp4"
+        
+        
+        
+                },
+    {   "r" : "Fantasy/Adventure 1h 28m",
+        "data" : "1991",
+        "name" : "Adventures in Dinosaur City",
+        "img" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSs2N-ry22C9N0Zt3jrHtct0KVcS8ss7c98uilEBMgH6R6WJ2Mm",
+        "movieUrl" : "https://archive.org/download/video_archive_553-cd-207/Adventures%20in%20Dinosaur%20City%20%281991%29%20VHSRip.mp4"
+        
+        
+        
+        
+                },
+    {   "r" : "Crime/Drama 1h 35m",
+        "data" : "1997",
+        "name" : "Against the Law",
+        "img" : "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhrObaOPca4wfZX84mhlsKHc1i9Ynkp-8zsheUM3ktkLALuul8",
+        "movieUrl" : "https://archive.org/download/video_archive_553-cd-207/Against%20the%20Law%20%281997%29%20VHSRip.mp4"
+        
+        
+        
+                },
+    {   "r" : "Sci-fi/Action 1h 30m",
+        "data" : "1987",
+        "name" : "Alien Private Eye",
+        "img" : "https://m.media-amazon.com/images/M/MV5BMmNmYjcwMGItMjI5MS00ZDBhLTgwYWItZWZmYmUxYTdhN2UxXkEyXkFqcGdeQXVyNDUxNjc5NjY@._V1_.jpg",
+        "movieUrl" : "https://archive.org/download/video_archive_553-cd-207/Alien%20Private%20Eye%20%281987%29%20VHSRip.mp4"
+        
+        
+        
+                    },
+    {   "r" : "",
+        "data" : "1990",
+        "name" : "American Tiger",
+        "img" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIo_L0PQfBNChrIamXOPlbHY979zIMm809F9hLSJ5r7NmGH4Pl",
+        "movieUrl" : "https://archive.org/download/video_archive_553-cd-207/American%20Tiger%20%281990%29%20VHSRip.mp4"
+        
+        
+                    },
+    {   "r" : "Comedy 1h 40m",
+        "data" : "1990",
+"name":"Archie To Riverdale and BackAgain", 
+        "img" : "https://m.media-amazon.com/images/M/MV5BZWRmYTI0MTUtYzU4MC00OWJlLWJmMGUtOTJhY2U0N2Y3MGQ5XkEyXkFqcGdeQXVyNTA0OTU0OTQ@._V1_FMjpg_UX1000_.jpg",
+        "movieUrl" : "https://archive.org/download/video_archive_553-cd-207/Archie%20To%20Riverdale%20and%20Back%20Again%20%281990%29%20VHSRip.mp4"
+        
+        
+        
+                        },
+    {   "r" : "Action/Crime 1h 25m",
+        "data" : "1988",
+        "name" : "Arizona Heat",
+        "img" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVhU_ejlJuos0cI9XoTaxHV2kTd1iP_GCROriyjpqV3pgKz9TN",
+        "movieUrl" : "https://archive.org/download/video_archive_553-cd-207/Arizona%20Heat%20%281988%29%20VHSRip.mp4"
+        
+        
+                        },
+    {   "r" : "Drama 1h 37m",
+        "data" : "1980",
+        "name" : "Attica",
+        "img" : "https://m.media-amazon.com/images/M/MV5BY2Q0ZWNlOTUtOGM4Zi00NTA3LWIxMWQtYjg3MWZlNDNiOTEwXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+        "movieUrl" : "https://archive.org/download/video_archive_553-cd-207/Attica%20%281980%29%20VHSRip.mp4"
+        
+        
+        
+                        },
+    {   "r" : "",
+        "data" : "1987",
+        "name" : "Backwoods",
+        "img" : "https://m.media-amazon.com/images/M/MV5BZTExYmRhOWYtOGU5YS00OGRjLTljOWQtNjYwN2I5NjRmYjlkXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+        "movieUrl" : "https://archive.org/download/video_archive_553-cd-207/Backwoods%20%281987%29%20VHSRip.mp4"
+        
+        
+        
+                            },
+    {   "r" : "Action/Drama 1h 55m",
+        "data" : "1989",
+        "name" : "Lock Up",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdUEDw9rh0NV4_h-wVMu7Ua6i33wNu0Suq5zjGqD5oA3r6qvJr",
+        "movieUrl" : "https://ia803109.us.archive.org/6/items/lock.up.1989.1080p.bluray.x264yts.am/Lock.Up.1989.1080p.BluRay.x264-%5BYTS.AM%5D.mp4"
+        
+        
+        
+                                },
+    {   "r" : "Action/Crime 1h 39m",
+        "data" : "1971",
+        "name" : "Vanishing Point",
+        "img" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3kuTFf3nIvEwXhaccduJPcd4fSsO6KWDqPlo6BOHe0K4PTu38",
+        "movieUrl" : "https://ia803101.us.archive.org/32/items/vanishingpointh.264aac/Vanishing%20Point%20%5BH.264-AAC%5D.mp4"
+        
+        
+                                },
+    {   "r" : "Sci-fi/Drama 1h 32m",
+        "data" : "1951",
+"name" : "The Day The Earth Stood Still",
+        "img" : "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSD1KnXwj7gdBu8NKN8LSPlp3L29v-feA6u3x59EMHw0_-aZ0zH",
+        "movieUrl" : "https://archive.org/download/20210722_20210722_0224/%2B%2B%2B%20The%20Day%20The%20Earth%20Stood%20Still%20%5B1951%5D.mp4"
+        
+        
+        
+                                },
+    {   "r" : "Horror/Sci-fi 1h 37m",
+        "data" : "1968",
+"name" : "Night of the Living Dead",
+        "img" : "https://media.elcinema.com/uploads/_315x420_43e1ac2c69759e2dffa357407bf72ae28e73020db0c7795fb1da8b99cc2e1fb2.jpg",
+        "movieUrl" : "https://ia600300.us.archive.org/1/items/night_of_the_living_dead/night_of_the_living_dead_512kb.mp4"
+        
+        
+    
+                                },
+    {   "r" : "Comedy/Silent 25 mins",
+        "data" : "1916",
+"name" : "Charlie Chaplin's The Pawnshop",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/%27The_Pawnshop%27.jpg/500px-%27The_Pawnshop%27.jpg",
+        "movieUrl" : "https://ia902605.us.archive.org/7/items/CC_1916_10_02_ThePawnshop/CC_1916_10_02_ThePawnshop_512kb.mp4"
+        
+        
+        
+                                },
+    { "r" : "Romance/Screwball comedy 1h 45m",
+        "data" : "1934",
+        "name" : "It Happened One NIght",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeRIZzbWsW4lmwz--EDoQaUyCM2brBY9lHXc1Ar8FMP80buSN8",
+        "movieUrl" : "https://ia802301.us.archive.org/11/items/it.-happened.-one.-night.-1934.1080p.-blu-ray.x-264.-yify/It.Happened.One.Night.1934.1080p.BluRay.x264.YIFY.mp4"
+        
+        
+        
+                                    },
+    {   "r" : "a",
+        "data" : "1998",
+        "name" : "Fallen Angel",
+        "img" : "https://m.media-amazon.com/images/M/MV5BMjEzMjcyMzI3Ml5BMl5BanBnXkFtZTcwNDc2OTIyMQ@@._V1_FMjpg_UX1000_.jpg",
+        "movieUrl" : "https://archive.org/download/the-ogre-1988/Fallen%20Angel%20%281981%29.mp4"
+        
+        
+        
+                                },
+    {   "r" : "",
+        "data" : "",
+        "name" : "",
+        "img" : "",
+        "movieUrl" : ""
+        
+        
+                                    },
+    {   "r" : "",
+        "data" : "",
+        "name" : "",
+        "img" : "",
+        "movieUrl" : ""
+        
+        
+    
+        
+  }
+  ]
+  
+  
+  
+  
