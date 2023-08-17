@@ -22,13 +22,13 @@
         
         
                                 },
-    {   "r" : "",
-        "Active Rating" : "",
-        "data" : "",
-        "name" : "",
-          "movie cover play" : "",
-        "img" : "",
-        "movieUrl" : ""
+    {   "r" : "R",
+        "Active Rating" : "7.2",
+        "data" : "2012",
+        "name" : "21.Jump.Street",
+          "movie cover play" : "https://ntvb.tmsimg.com/assets/p8869472_v_h10_aw.jpg?w=1280&h=720",
+        "img" : "https://images-3.rakuten.tv/storage/global-movie/translation/artwork/43b9fcf3-f5b3-4450-8853-b6777c13778f-21-jump-street-2012-1611332313.jpeg",
+        "movieUrl" : "https://archive.org/download/kabhi-khushi-kabhie-gham-720-p-bdrip-x-rg_202108/21.Jump.Street.2012.720p.BluRay.x264.YIFY.mp4"
         
         
                                     },
