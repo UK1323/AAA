@@ -2,25 +2,28 @@
 
 
    {
-       "r" : "Sci-fi/Horror 1h 11m",
-       "data" : "1933",
-       "name" : "The Invisible Man",
-        "img"  : "h",
-        "movieUrl" : ""
+       "r" : "PG-13",
+       "data" : "2009",
+       "name" : "2012",
+         "movie cover play" : "https://images.moviesanywhere.com/60835dbdf997fa7f356e5893acf42ad9/4dd79661-f477-4aeb-8d8c-a639759cdb82.jpg?w=2560&r=16x9",
+        "img"  : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvovWrOuObeEZ20dp702Mj6jIQ0eGGmYEOr0TlPdUmmz6beww6",
+        "movieUrl" : "https://ia801803.us.archive.org/26/items/tomorrowland.-2015/2012%20ice%20age.mp4"
         
         
     },
-    {   "r" : "Comedy/Fantasy 1h 34m",
-        "data" : "1988",
-        "name" : "14 Going on 30",
-        "img" : "https://raw.githubusercontent.com/GGq1234Games/hd-----wallpaper-mk/main/Movies%20Wallpaper/14%20Going%20on%2030.png",
-        "movieUrl" : "https://ia801901.us.archive.org/9/items/video_archive_553-cd-207/14%20Going%20on%2030%20%281988%29%20VHSRip.mp4"
+    {   "r" : "",
+        "data" : "",
+        "name" : "",
+          "movie cover play" : "",
+        "img" : "",
+        "movieUrl" : ""
         
         
                                 },
     {   "r" : "",
         "data" : "",
         "name" : "",
+          "movie cover play" : "",
         "img" : "",
         "movieUrl" : ""
         
@@ -29,6 +32,7 @@
     {   "r" : "",
         "data" : "",
         "name" : "",
+          "movie cover play" : "",
         "img" : "",
         "movieUrl" : ""
         
@@ -37,3 +41,6 @@
         
   }
   ]
+  
+  
+      
