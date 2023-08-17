@@ -12,13 +12,13 @@
         
         
     },
-    {   "r" : "",
-        "Active Rating" : "",
-        "data" : "",
-        "name" : "",
-          "movie cover play" : "",
-        "img" : "",
-        "movieUrl" : ""
+    {   "r" : "PG-13",
+        "Active Rating" : "6.4",
+        "data" : "2009",
+        "name" : "17.Again",
+          "movie cover play" : "https://occ-0-34-55.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABWxh0SSlqRdl9rXkSAkE3it-pzs-i6EvfjCR6Hon4FbW0sC5XlNfb8qxg2zOb11CL8bgEnqsey3ZqTWZTDMHnkNlqKjVAzKLePbi.jpg?r=256",
+        "img" : "https://www.sentieridelcinema.it/wp-content/uploads/2016/03/IiqLi5L2TeCKgRNfXDn6JpNUqc5iHgydluyl.jpg",
+        "movieUrl" : "https://archive.org/download/kabhi-khushi-kabhie-gham-720-p-bdrip-x-rg_202108/17.Again.2009.720p.BrRip.x264.YIFY.mp4"
         
         
                                 },
