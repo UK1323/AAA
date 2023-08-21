@@ -32,13 +32,13 @@
         
         
                                     },
-    {   "r" : "R",
-        "Active Rating" : "7.1",
+    {   "r" : "PG-13",
+        "Active Rating" : "8.0",
         "data" : "2014",
-        "name" : "22.Jump.Street",
-          "movie cover play" : "https://3.bp.blogspot.com/--g8w6CaaAf4/U7AsAIOZkdI/AAAAAAAABYI/dGj_LUfOd4g/s1600/22-Jump-Street-Poster-WeLiveFilm.jpg",
-        "img" : "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKX0K8cHgD3psn_0Eb_SNz4t5Nz37hdjS5ryITd8RvP6ngK981",
-        "movieUrl" : "https://archive.org/download/kabhi-khushi-kabhie-gham-720-p-bdrip-x-rg_202108/22.Jump.Street.2014.720p.BluRay.x264.YIFY.mp4"
+        "name" : "Guardians of the Galaxy",
+          "movie cover play" : "https://ntvb.tmsimg.com/assets/p10108283_v_h10_ac.jpg?w=1280&h=720",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmjqEAJ4yWbMsiJOxCxGQm6JBEWEmAj8Sl_x7jNIhzJO2fpLip",
+        "movieUrl" : "https://ia804703.us.archive.org/0/items/xxDutyxx/Guardians.of.the.Galaxy.2014.720p.BluRay.H264.AAC-RARBG.mp4"
         
             
                                     },
