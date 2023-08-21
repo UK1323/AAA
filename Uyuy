@@ -32,13 +32,13 @@
         
         
                                     },
-    {   "r" : "",
-        "Active Rating" : "",
-        "data" : "",
-        "name" : "",
-          "movie cover play" : "",
-        "img" : "",
-        "movieUrl" : ""
+    {   "r" : "R",
+        "Active Rating" : "7.1",
+        "data" : "2014",
+        "name" : "22.Jump.Street",
+          "movie cover play" : "https://3.bp.blogspot.com/--g8w6CaaAf4/U7AsAIOZkdI/AAAAAAAABYI/dGj_LUfOd4g/s1600/22-Jump-Street-Poster-WeLiveFilm.jpg",
+        "img" : "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKX0K8cHgD3psn_0Eb_SNz4t5Nz37hdjS5ryITd8RvP6ngK981",
+        "movieUrl" : "https://archive.org/download/kabhi-khushi-kabhie-gham-720-p-bdrip-x-rg_202108/22.Jump.Street.2014.720p.BluRay.x264.YIFY.mp4"
         
             
                                     },
