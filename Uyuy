@@ -60,13 +60,13 @@
         "img" : "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQS1yZxA9tQkBs4LqOH0jH0eHqd09MN6GXDFQDap150tg-w5Rki",
         "movieUrl" : "https://ia804703.us.archive.org/0/items/xxDutyxx/Kingsman.The.Secret.Service.2014.720p.BluRay.x264.YIFY.mp4"
                                         },
-    {   "r" : "",
-        "Active Rating" : "",
-        "data" : "",
-        "name" : "",
-          "movie cover play" : "",
-        "img" : "",
-        "movieUrl" : ""
+    {   "r" : "PG-13",
+        "Active Rating" : "6.6",
+        "data" : "2011",
+        "name" : "Pirates of the Caribbean: On Stranger Tides",
+          "movie cover play" : "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/BE9E198CCEF919436372F82EF40F8A3C41246E56AB65DCE98C42172277F8B414/scale?width=1200&aspectRatio=1.78&format=jpeg",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4hukbs571MwrsRvhFHpXwOf8xeGaehz_9K0VgeosBZeqg4rHg",
+        "movieUrl" : "https://ia804703.us.archive.org/0/items/xxDutyxx/Pirates.of.the.Caribbean.On.Stranger.Tides.2011.720p.BrRip.x264.Deceit.YIFY.mp4"
         
             
                                     },
