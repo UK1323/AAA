@@ -80,13 +80,13 @@
         
             
                                     },
-    {   "r" : "",
-        "Active Rating" : "",
-        "data" : "",
-        "name" : "",
-          "movie cover play" : "",
-        "img" : "",
-        "movieUrl" : ""
+    {   "r" : "NA",
+        "Active Rating" : "3.5",
+        "data" : "2023",
+        "name" : "97.Minutes",
+          "movie cover play" : "https://i.ytimg.com/vi/1engtfAu5gk/maxresdefault.jpg",
+        "img" : "https://pics.filmaffinity.com/97_Minutes-611031853-large.jpg",
+        "movieUrl" : "http://185.223.160.51/Movies/2023/97.Minutes.2023/97.Minutes.2023.1080p.WEBRip.x264.AAC5.1-YTS.Sermovie.mp4"
 },
     {   "r" : "",
         "Active Rating" : "",
