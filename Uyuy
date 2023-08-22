@@ -88,32 +88,32 @@
         "img" : "https://raw.githubusercontent.com/UK1323/AAA/main/A/movie/97_Minutes.jpg",
         "movieUrl" : "http://185.223.160.51/Movies/2023/97.Minutes.2023/97.Minutes.2023.1080p.WEBRip.x264.AAC5.1-YTS.Sermovie.mp4"
 },
-    {   "r" : "",
-        "Active Rating" : "",
-        "data" : "",
-        "name" : "",
-          "movie cover play" : "",
-        "img" : "",
-        "movieUrl" : ""
+    {   "r" : "PG-13",
+        "Active Rating" : "5.7",
+        "data" : "2023",
+        "name" : "About.My.Father",
+          "movie cover play" : "https://i.ytimg.com/vi/txLSE7tpgr0/maxresdefault.jpg",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLlea3hF2GFhKqdkkA14C-THE9PWsI7ObmxMEFdH54_T-f9qv4",
+        "movieUrl" : "http://185.223.160.51/Movies/2023/About.My.Father.2023/About.My.Father.2023.1080p.BluRay.x264.YTS.SoftSub.Sermovie.mp4"
         
             
                                     },
-    {   "r" : "",
-        "Active Rating" : "",
-        "data" : "",
-        "name" : "",
-          "movie cover play" : "",
-        "img" : "",
-        "movieUrl" : ""
+    {   "r" : "R",
+        "Active Rating" : "7.4",
+        "data" : "2023",
+        "name" : "Air",
+          "movie cover play" : "https://ntvb.tmsimg.com/assets/p23983959_v_h8_ac.jpg?w=1280&h=720",
+        "img" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVU77iCkYDB_ofGMISI4v0Edpr5kubkC1FyWEZUsVVlXz0t_i3",
+        "movieUrl" : "http://185.223.160.51/Movies/2023/Air.2023/Soft/Air.2023.1080p.WEBRip.x264.AAC-YTS.SoftSub.Sermovie.mp4"
         
                                         },
-    {   "r" : "",
-        "Active Rating" : "",
-        "data" : "",
-        "name" : "",
-          "movie cover play" : "",
-        "img" : "",
-        "movieUrl" : ""
+    {   "r" : "PG-13",
+        "Active Rating" : "6.1",
+        "data" : "2023",
+        "name" : "Ant.Man.and.the.Wasp.Quantumania",
+          "movie cover play" : "https://www.nowrunning.com/content/movie/2023/ant-m-27508/bg3.jpg",
+        "img" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRE761oMvu7ZZ09vevgZ8jxgD0W1ye-_2p68Ga7qhajS9MIxW8y",
+        "movieUrl" : "http://185.223.160.51/Movies/2023/Ant.Man.and.the.Wasp.Quantumania.2023/Ant.Man.and.the.Wasp.Quantumania.2023.1080p.BluRay.x264.AAC-YTS.SoftSub.Sermovie.mp4"
         
                                         },
     {   "r" : "",
