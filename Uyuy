@@ -70,13 +70,13 @@
         
             
                                     },
-    {   "r" : "",
-        "Active Rating" : "",
-        "data" : "",
-        "name" : "",
-          "movie cover play" : "",
-        "img" : "",
-        "movieUrl" : ""
+    {   "r" : "PG-13",
+        "Active Rating" : "7.7",
+        "data" : "2011",
+        "name" : "X-Men.First.Class",
+          "movie cover play" : "https://www.hollywoodreporter.com/wp-content/uploads/2016/02/x-menfirstclass2011_023.jpg?w=1296",
+        "img" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbzxfEUaVSMgGOyBnye1VNdhUajAwfpcoRp9fADVNbQKHTknx7",
+        "movieUrl" : "https://ia804703.us.archive.org/0/items/xxDutyxx/X-Men.First.Class.2011.720p.BrRip.264.YIFY.mp4"
         
             
                                     },
