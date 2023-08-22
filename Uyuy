@@ -116,13 +116,13 @@
         "movieUrl" : "http://185.223.160.51/Movies/2023/Ant.Man.and.the.Wasp.Quantumania.2023/Ant.Man.and.the.Wasp.Quantumania.2023.1080p.BluRay.x264.AAC-YTS.SoftSub.Sermovie.mp4"
         
                                         },
-    {   "r" : "",
-        "Active Rating" : "",
-        "data" : "",
-        "name" : "",
-          "movie cover play" : "",
-        "img" : "",
-        "movieUrl" : ""
+    {   "r" : "PG",
+        "Active Rating" : "7.3",
+        "data" : "1984",
+        "name" : "The.Karate.Kid",
+          "movie cover play" : "https://visitboise.com/wp-content/uploads/2023/07/the-karate-kid-1984.png",
+        "img" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSKeR9Xl9DBINmF9LiNto1-ycAjWc6dn1xxD60MgPn0aa9dNI8",
+        "movieUrl" : "http://103.134.58.242/Data/movies/hollywood/1950-2000/The%20Karate%20Kid%20%281984%29/The.Karate.Kid.1984.1080p.BrRip.x264.BOKUTOX.YIFY.mp4"
         
                                         },
     {   "r" : "",
