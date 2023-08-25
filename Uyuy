@@ -125,13 +125,13 @@
         "movieUrl" : "http://103.134.58.242/Data/movies/hollywood/1950-2000/The%20Karate%20Kid%20%281984%29/The.Karate.Kid.1984.1080p.BrRip.x264.BOKUTOX.YIFY.mp4"
         
                                         },
-    {   "r" : "",
-        "Active Rating" : "",
-        "data" : "",
-        "name" : "",
-          "movie cover play" : "",
-        "img" : "",
-        "movieUrl" : ""
+    {   "r" : "R",
+        "Active Rating" : "6.1",
+        "data" : "2019",
+        "name" : "6.Underground",
+          "movie cover play" : "https://occ-0-2773-444.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABVqVfVlzSHRdf9-VzauN1LzXFvnuhamJlorGrtMgulyeRG7L49jmQAmK5QL7gi75QZMEuItYonYUdqEd9x5efkapEKAR3xeUV1Nf.jpg?r=6fd",
+        "img" : "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJmfCvBncIUX6yZNWYrLqUz6SVIltHnZXouT49W1_94EkB3dMs",
+        "movieUrl" : "https://archive.org/download/kabhi-khushi-kabhie-gham-720-p-bdrip-x-rg_202108/6.Underground.2019.720p.WEBRip.x264-%5BYTS.LT%5D.mp4"
         
         
                                         },
@@ -265,4 +265,3 @@
   ]
   
   
-
