@@ -152,22 +152,22 @@
         "img" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQu2e6nmcny8QQ7yDlnN8bWlVuKjA2nRRFVME02fnoa4ONd6aBR",
         "movieUrl" : "https://archive.org/download/kabhi-khushi-kabhie-gham-720-p-bdrip-x-rg_202108/A.Night.At.The.Roxbury.1998.720p.WEBRip.x264-%5BYTS.AM%5D.mp4"
                                         },
-    {   "r" : "",
-        "Active Rating" : "",
-        "data" : "",
-        "name" : "",
-          "movie cover play" : "",
-        "img" : "",
-        "movieUrl" : ""
+    {   "r" : "NA",
+        "Active Rating" : "7.3",
+        "data" : "2020",
+        "name" : "After.Love",
+          "movie cover play" : "https://m.media-amazon.com/images/S/pv-target-images/38dd7dbfbe18ac648ef60d74448fb6d75d1805b1f23b307d2f6826f0c8db2cc9._UR1920,1080_SX720_FMjpg_.jpg",
+        "img" : "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTumuXRdVr6KP-SMF8SaEhy6Qy_AwUoo9YfOhzKjCZE1kLhoSd",
+        "movieUrl" : "https://archive.org/download/kabhi-khushi-kabhie-gham-720-p-bdrip-x-rg_202108/After.Love.2020.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4"
         
                                         },
-    {   "r" : "",
-        "Active Rating" : "",
-        "data" : "",
-        "name" : "",
-          "movie cover play" : "",
-        "img" : "",
-        "movieUrl" : ""
+    {   "r" : "R",
+        "Active Rating" : "6.4",
+        "data" : "1992",
+        "name" : "Alien 3 Special Edition",
+          "movie cover play" : "https://scifibloggers.com/wp-content/uploads/alien-3-1992_55451370406885.jpg",
+        "img" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKarbQrGA2OPv-SR_ZEH1myLOoipuXttZRPd0vv5pxQDGVJWKm",
+        "movieUrl" : "https://archive.org/download/kabhi-khushi-kabhie-gham-720-p-bdrip-x-rg_202108/Alien%203%20Special%20Edition%201992.720p.BrRip.x264.YIFY.mp4"
         
                                         },
     {   "r" : "",
