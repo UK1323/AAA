@@ -170,13 +170,13 @@
         "movieUrl" : "https://archive.org/download/kabhi-khushi-kabhie-gham-720-p-bdrip-x-rg_202108/Alien%203%20Special%20Edition%201992.720p.BrRip.x264.YIFY.mp4"
         
                                         },
-    {   "r" : "",
-        "Active Rating" : "",
-        "data" : "",
-        "name" : "",
-          "movie cover play" : "",
-        "img" : "",
-        "movieUrl" : ""
+    {   "r" : "R",
+        "Active Rating" : "8.5",
+        "data" : "1979",
+        "name" : "Alien",
+          "movie cover play" : "https://e1.pxfuel.com/desktop-wallpaper/950/195/desktop-wallpaper-alien-the-directors-cut-alien-1979.jpg",
+        "img" : "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgS4EaCIATEXUnDBg-FkJui_Tkjh1YiS_zhWvOpcGostwp9SQp",
+        "movieUrl" : "https://archive.org/download/kabhi-khushi-kabhie-gham-720-p-bdrip-x-rg_202108/Alien%20Director%27s%20Cut%201979.720p.BrRip.x264.YIFY.mp4"
         
                                         },
     {   "r" : "",
