@@ -179,22 +179,22 @@
         "movieUrl" : "https://archive.org/download/kabhi-khushi-kabhie-gham-720-p-bdrip-x-rg_202108/Alien%20Director%27s%20Cut%201979.720p.BrRip.x264.YIFY.mp4"
         
                                         },
-    {   "r" : "",
-        "Active Rating" : "",
-        "data" : "",
-        "name" : "",
-          "movie cover play" : "",
-        "img" : "",
-        "movieUrl" : ""
+    {   "r" : "R",
+        "Active Rating" : "6.2",
+        "data" : "1997",
+        "name" : "Alien Resurrection",
+          "movie cover play" : "https://img1.hulu.com/user/v3/artwork/4da92623-1e5a-4d7f-a79f-cc16272aaf6e?base_image_bucket_name=image_manager&base_image=b7dc9793-2546-4f26-9043-a24939d07f84&size=600x338&format=jpeg",
+        "img" : "https://static.wikia.nocookie.net/avp/images/2/21/Alien_Resurrection_Poster.png/revision/latest?cb=20170125133800",
+        "movieUrl" : "https://ia902302.us.archive.org/14/items/kabhi-khushi-kabhie-gham-720-p-bdrip-x-rg_202108/Alien%20Resurrection%20Special%20Edition%201997.720p.BrRip.x264.YIFY.mp4"
         
                                         },
-    {   "r" : "",
-        "Active Rating" : "",
-        "data" : "",
-        "name" : "",
-          "movie cover play" : "",
-        "img" : "",
-        "movieUrl" : ""
+    {   "r" : "R",
+        "Active Rating" : "6.4",
+        "data" : "2017",
+        "name" : "Alien.Covenant",
+          "movie cover play" : "https://flixable.b-cdn.net/disney-plus/large/ca/alien-covenant.png",
+        "img" : "https://louisvillehalloween.com/images//movies/alien-covenant-full.jpg",
+        "movieUrl" : "https://ia902302.us.archive.org/14/items/kabhi-khushi-kabhie-gham-720-p-bdrip-x-rg_202108/Alien.Covenant.2017.720p.BluRay.x264-%5BYTS.AG%5D.mp4"
         
                                         },
     {   "r" : "",
