@@ -224,13 +224,13 @@
         "movieUrl" : "https://ia801604.us.archive.org/3/items/mymoviecollection/Bolt%20%282008%29.mp4"
         
                                         },
-    {   "r" : "",
-        "Active Rating" : "",
-        "data" : "",
-        "name" : "",
-          "movie cover play" : "",
-        "img" : "",
-        "movieUrl" : ""
+    {   "r" : "PG",
+        "Active Rating" : "7.1",
+        "data" : "2012",
+        "name" : "Brave",
+          "movie cover play" : "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/03/brave-movie.jpg",
+        "img" : "https://lumiere-a.akamaihd.net/v1/images/p_brave_20488_9e833e2b.jpeg?region=0%2C0%2C540%2C810",
+        "movieUrl" : "https://ia601604.us.archive.org/3/items/mymoviecollection/Brave%20%282012%29.mp4"
         
                                         },
     {   "r" : "",
