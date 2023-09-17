@@ -19,7 +19,7 @@
    
   
     
-   "movieUrl": "",
+   "movieUrl": "https://raw.githubusercontent.com/UK1323/AAA/main/A/movie/2.txt",
    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPJ2MMSzpszg8p7AqI4NK4VkS3__vm7Dq4YqAXmJ0CkhiLefl"
    
    
