@@ -8,7 +8,7 @@
    
   
     
-   "movieUrl": "",
+   "movieUrl": "https://raw.githubusercontent.com/UK1323/AAA/main/A/movie/1.txt",
    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5PzO_JoJcBoxWha7W8mwHANptpB1NwIvgzG4vtYJeKmD-ypS_"
    
    
