@@ -197,13 +197,13 @@
         "movieUrl" : "https://ia902302.us.archive.org/14/items/kabhi-khushi-kabhie-gham-720-p-bdrip-x-rg_202108/Alien.Covenant.2017.720p.BluRay.x264-%5BYTS.AG%5D.mp4"
         
                                         },
-    {   "r" : "",
-        "Active Rating" : "",
-        "data" : "",
-        "name" : "",
-          "movie cover play" : "",
-        "img" : "",
-        "movieUrl" : ""
+    {   "r" : "G",
+        "Active Rating" : "7.2",
+        "data" : "1998",
+        "name" : "A Bug's Life",
+          "movie cover play" : "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3F99C1E64B75AC378B18ECC2F8C97500CC69C4B3F1DF3994BD73A4FFA247CD0D/scale?width=1200&aspectRatio=1.78&format=jpeg",
+        "img" : "https://lumiere-a.akamaihd.net/v1/images/p_abugslife_19869_f035d6d4.jpeg?region=0%2C0%2C540%2C810",
+        "movieUrl" : "https://ia801604.us.archive.org/3/items/mymoviecollection/A%20Bug%27s%20Life%20%281998%29%20%28Full%20Screen%29.mp4"
         
                                         },
     {   "r" : "",
